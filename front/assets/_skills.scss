@@ -1,0 +1,19 @@
+.userSkills {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  align-items: flex-start;
+}
+
+.skillButton {
+  margin: 10px;
+  padding: 10px;
+}
+
+.skillls-p {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}

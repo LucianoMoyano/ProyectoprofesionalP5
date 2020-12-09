@@ -1,0 +1,18 @@
+@import "./users";
+@import "./skills";
+@import "./test";
+@import "./testSelector";
+@import "./button";
+@import "./postTestView";
+@import "./preTestView";
+
+body {
+  min-width: 100%;
+  height: 100vh;
+  background-image: url("https://www.bumeran.com.ar/noticias/wp-content/uploads/2020/11/portadas-NAV_notas-4.png");
+  box-sizing: border-box;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  object-fit: contain;
+}
